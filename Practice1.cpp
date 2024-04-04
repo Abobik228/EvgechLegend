@@ -1,6 +1,6 @@
 #include <iostream>
-#include <cstdlib> // Якщо у Visual Studio, бо я писав у CLion
-#include <ctime>   // Якщо у Visual Studio, бо я писав у CLion
+#include <cstdlib>
+#include <ctime> 
 
 using namespace std;
 
