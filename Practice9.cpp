@@ -19,8 +19,6 @@ void printMatrix(const vector<vector<int>>& matrix) {
         cout << endl;
     }
 }
-
-// made by @rxg3 <3
 void bubbleSortRows(vector<vector<int>>& matrix) {
     for (auto& row : matrix) {
         bool swapped;
